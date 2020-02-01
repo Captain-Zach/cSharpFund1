@@ -1,0 +1,11 @@
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.exe
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.deps.json
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.runtimeconfig.json
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.runtimeconfig.dev.json
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.dll
+C:\Users\Zach\Desktop\C# prework\MakePractice\bin\Debug\netcoreapp3.0\MakePractice.pdb
+C:\Users\Zach\Desktop\C# prework\MakePractice\obj\Debug\netcoreapp3.0\MakePractice.csprojAssemblyReference.cache
+C:\Users\Zach\Desktop\C# prework\MakePractice\obj\Debug\netcoreapp3.0\MakePractice.AssemblyInfoInputs.cache
+C:\Users\Zach\Desktop\C# prework\MakePractice\obj\Debug\netcoreapp3.0\MakePractice.AssemblyInfo.cs
+C:\Users\Zach\Desktop\C# prework\MakePractice\obj\Debug\netcoreapp3.0\MakePractice.dll
+C:\Users\Zach\Desktop\C# prework\MakePractice\obj\Debug\netcoreapp3.0\MakePractice.pdb
